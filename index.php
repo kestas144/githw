@@ -1,18 +1,5 @@
 <?php
 
-123;
-126;
+echo "git";
 
-adasd;
-
-aaaaa;
-
-asdasd;
-assasasasa;
-
-
-aadasd;
-ad;
-
-12;
 
