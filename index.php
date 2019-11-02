@@ -8,9 +8,3 @@ bbbb;
 aaaa;
 
 assasasasa;
-
-asdasdasdas;
-
-asdasdasdasd;
-asdasd;
-
