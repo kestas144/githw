@@ -1,10 +1,9 @@
 <?php
 
 123;
+126;
 
 aaaaa;
-aaaa;
-bbbb;
 aaaa;
 
 assasasasa;
